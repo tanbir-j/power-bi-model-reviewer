@@ -1,0 +1,3 @@
+interface:
+  display_name: "Power BI Model Reviewer"
+  short_description: "Document, critique and enhance Power BI models across GPT and Claude"
